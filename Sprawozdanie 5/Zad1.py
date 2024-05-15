@@ -1,0 +1,1 @@
+inw = open('inw_plik.txt')
